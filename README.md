@@ -1,3 +1,4 @@
-today i learned
+<h1>today i learned</h1>
 
 현재로는 일기형식으로 기록할 예정이다.
+PM 11:30~11:50에 작성
